@@ -4,7 +4,12 @@
 
 <p align="center">
 <!--   <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/overview.png"/> -->
-  <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/teaser.png"/>
+<!--   <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/teaser.png"/> -->
+
+<video autoplay muted loop playsinline height="100%">
+  <source src="https://github.com/xiangyueliu/GenN2N/raw/main/videos/teaser_v3.mp4" type="video/mp4">
+</video>
+  
 </p>
 
 #### <p align="center">[Project Page](https://xiangyueliu.github.io/GenN2N/) | [ArXiv]() | [Paper]() | [Video]()</p>
