@@ -5,7 +5,7 @@
 <p align="center">
 <!--   <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/overview.png"/> -->
 <!--   <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/teaser.png" style="width: 85%; height: 85%;"> -->
-  ![Alt Text](https://github.com/xiangyueliu/GenN2N/tree/main/videos/teaser_v3.gif)
+![Alt Text](https://github.com/xiangyueliu/GenN2N/raw/main/videos/teaser_v3.gif)
 </p>
 
 #### <p align="center">[Project Page](https://xiangyueliu.github.io/GenN2N/) | [ArXiv]()</p>
