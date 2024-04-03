@@ -4,7 +4,7 @@
 
 <p align="center">
 <!--   <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/overview.png"/> -->
-  <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/teaser.png" style="width: 90%; height: 90%;">
+  <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/teaser.png" style="width: 85%; height: 85%;">
   
 </p>
 
