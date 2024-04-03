@@ -5,10 +5,7 @@
 <p align="center">
 <!--   <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/overview.png"/> -->
 <!--   <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/teaser.png"/> -->
-
-<video autoplay muted loop playsinline height="100%">
-  <source src="https://github.com/xiangyueliu/GenN2N/raw/main/videos/teaser_v3.mp4" type="video/mp4">
-</video>
+  <img src="https://github.com/xiangyueliu/GenN2N/blob/main/static/images/teaser.png" style="width: 80%; height: 80%;">
   
 </p>
 
