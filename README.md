@@ -8,6 +8,6 @@
   
 </p>
 
-#### <p align="center">[Project Page](https://xiangyueliu.github.io/GenN2N/) | [ArXiv]() | [Paper]() | [Video]()</p>
+#### <p align="center">[Project Page](https://xiangyueliu.github.io/GenN2N/) | [ArXiv]()</p>
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
