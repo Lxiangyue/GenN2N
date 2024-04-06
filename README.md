@@ -15,6 +15,18 @@
 - [ ] Release training code. 
 
 
+## Citing
+```
+@misc{liu2024genn2n,
+      title={GenN2N: Generative NeRF2NeRF Translation}, 
+      author={Xiangyue Liu and Han Xue and Kunming Luo and Ping Tan and Li Yi},
+      year={2024},
+      eprint={2404.02788},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 
 
 
