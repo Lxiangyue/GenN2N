@@ -17,13 +17,11 @@
 
 ## Citing
 ```
-@misc{liu2024genn2n,
-      title={GenN2N: Generative NeRF2NeRF Translation}, 
-      author={Xiangyue Liu and Han Xue and Kunming Luo and Ping Tan and Li Yi},
-      year={2024},
-      eprint={2404.02788},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{liu2024genn2n,
+  title={GenN2N: Generative NeRF2NeRF Translation},
+  author={Liu, Xiangyue and Xue, Han and Luo, Kunming and Tan, Ping and Yi, Li},
+  journal={arXiv preprint arXiv:2404.02788},
+  year={2024}
 }
 ```
 
