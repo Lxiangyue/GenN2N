@@ -1,0 +1,8 @@
+/huggingface
+*egg-info*
+*outputs*
+.DS_Store
+/Data
+/instruct-nerf2nerf/outputs
+*__pycache__*
+*MACOSX*
