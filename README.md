@@ -28,8 +28,9 @@ We present GenN2N, a unified NeRF-to-NeRF translation framework for various NeRF
     pip install -r requirements.txt
     ```
     We made our modifications to nerfstudio and instruct-nerf2nerf, so clone our version and install (compulsory):
+    `rm -r ...` maybe not needed for the first time
     ```shell
-    cd nerfstudio && rm -r nerfstudio.egg-info && pip install -e . && cd .. 
+    cd nerfstudio && rm -r nerfstudio.egg-info && pip install -e . && cd ..
     cd instruct-nerf2nerf && rm -r in2n.egg-info && pip install -e . && cd ..
     cd instruct-nerf2nerf
     ```
